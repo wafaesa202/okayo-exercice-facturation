@@ -1,0 +1,33 @@
+﻿{
+    "reference": "2022-0025",
+    "dateFacturation": "2018-07-26", 
+    "dateEcheance": "2018-07-31",
+    "clientId": 1,
+    "conditionsReglement": "Reglement a la livraison",
+    "lignes": [
+        {
+            "produitId": 3,
+            "tvaId": 1,
+            "prixUnitaireHt": 70000.00,
+            "quantite": 1
+        },
+        {
+            "produitId": 1,
+            "tvaId": 2,
+            "prixUnitaireHt": 1500.00,
+            "quantite": 2
+        },
+        {
+            "produitId": 4,
+            "tvaId": 1,
+            "prixUnitaireHt": 3000.00,
+            "quantite": 1
+        },
+        {
+            "produitId": 2,
+            "tvaId": 3,
+            "prixUnitaireHt": 4000.00,
+            "quantite": 2
+        }
+    ]
+}

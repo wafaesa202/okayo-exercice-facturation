@@ -1,0 +1,28 @@
+{
+  "reference": "2022-0025",
+  "dateFacturation": "2018-07-26",
+  "dateEcheance": "2018-07-31",
+  "clientId": 1,
+  "lignes": [
+    {
+      "produitId": 1,
+      "quantite": 1,
+      "prixUnitaireHt": 70000.00
+    },
+    {
+      "produitId": 2,
+      "quantite": 2,
+      "prixUnitaireHt": 1500.00
+    },
+    {
+      "produitId": 3,
+      "quantite": 1,
+      "prixUnitaireHt": 3000.00
+    },
+    {
+      "produitId": 4,
+      "quantite": 2,
+      "prixUnitaireHt": 4000.00
+    }
+  ]
+}
